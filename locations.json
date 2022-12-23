@@ -1,0 +1,49 @@
+[
+	{
+		"type": "Territories",
+		"title": "Ballas Kingz",
+		"notes": "Ballas Kingz là một trong những băng nhóm tội phạm khét tiếng nhất Los Santos nói chung và khu vực miền nam (South Side) nói riêng. Được thành lập ban đầu bởi Xiao Ming, Johnny Đen, Lucca, Lucas, Charger và Híu",
+		"wiki_link": "https://letsrp.fandom.com/vi/wiki/Ballas",
+		"order": 1,
+		"strokecolor": "551A8B",
+		"fillcolor": "551A8B",
+		"latlngarray": [
+			{"lat": -74.820, "lng": -25.766},
+			{"lat": -74.471, "lng": -26.307},
+			{"lat": -74.170, "lng": -26.245},
+			{"lat": -73.856, "lng": -25.696},
+			{"lat": -73.300, "lng": -24.623},
+			{"lat": -72.846, "lng": -23.393},
+			{"lat": -72.253, "lng": -22.514},
+			{"lat": -71.682, "lng": -22.502},
+			{"lat": -71.647, "lng": -20.591},
+			{"lat": -71.093, "lng": -17.932},
+			{"lat": -71.100, "lng": -11.714},
+			{"lat": -71.751, "lng": -8.176},
+			{"lat": -74.203, "lng": 2.056},
+			{"lat": -74.761, "lng": 1.990},
+			{"lat": -75.098, "lng": 1.199},
+			{"lat": -75.300, "lng": 0.144},
+			{"lat": -75.696, "lng": -3.547},
+			{"lat": -75.522, "lng": -4.294},
+			{"lat": -76.539, "lng": -8.100},
+			{"lat": -76.343, "lng": -9.858},
+			{"lat": -76.338, "lng": -14.977},
+			{"lat": -76.882, "lng": -21.349},
+			{"lat": -76.917, "lng": -22.426},
+			{"lat": -76.711, "lng": -24.250},
+			{"lat": -76.327, "lng": -26.953},
+			{"lat": -75.798, "lng": -28.095},
+			{"lat": -75.471, "lng": -28.117},
+			{"lat": -75.294, "lng": -27.150},
+			{"lat": -75.074, "lng": -26.381},
+			{"lat": -75.023, "lng": -25.788}
+
+		],
+		"video": {
+			"yt_id": "36R9kXJxdPI",
+			"yt_user_display": "Kiệt Nguyễn",
+			"yt_user_link": "c/UCAc7NF_J-BZ9YIXsDPPV5VQ"
+		}
+	}
+]
